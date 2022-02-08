@@ -1,8 +1,8 @@
 [Adblock Plus 1.4]
-! Version: 202202022121
+! Version: 202202080108
 ! Title: videoads
-! Last modified: 02 February 2022 21:21 UTC
-! Expires: 7 days (update frequency)
+! Last modified: 08 February 2022 01:08 UTC
+! Expires: 3 days (update frequency)
 
 *trafmag.*
 *ankunding.*
@@ -65,3 +65,10 @@ video.meta.ua##[id$="bonus_video_embed"]
 *venetrigni.com^
 *addresseepaper.com^
 protonvideo.to###playerBg
+*ribsaiji.com^
+*eoeeunuxnyco.com^
+*denetsuk.com^
+*glersakr.com^
+mp4upload.com###lay
+mp4upload.com##html>div
+mp4upload.com##iframe
