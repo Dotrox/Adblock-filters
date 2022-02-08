@@ -2,7 +2,8 @@
 ! Version: 202202080108
 ! Title: videoads
 ! Last modified: 08 February 2022 01:08 UTC
-! Expires: 3 days (update frequency)
+! Expires: 1 days (update frequency)
+! Homepage: https://github.com/Dotrox/Adblock-filters
 
 *trafmag.*
 *ankunding.*
@@ -69,6 +70,7 @@ protonvideo.to###playerBg
 *eoeeunuxnyco.com^
 *denetsuk.com^
 *glersakr.com^
+*xhvtkbnecqd.com^
 mp4upload.com###lay
 mp4upload.com##html>div
 mp4upload.com##iframe
