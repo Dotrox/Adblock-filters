@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202202080152
+! Version: 202202080200
 ! Title: videoads
-! Last modified: 08 February 2022 01:52 UTC
+! Last modified: 08 February 2022 02:00 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/Dotrox/Adblock-filters
 
@@ -67,6 +67,7 @@ video.meta.ua##[id$="bonus_video_embed"]
 *addresseepaper.com^
 protonvideo.to###playerBg
 *ribsaiji.com^
+||ribsaiji.com^
 *eoeeunuxnyco.com^
 *denetsuk.com^
 *glersakr.com^
